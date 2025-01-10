@@ -62,6 +62,29 @@ export default function Body() {
               <h4>Maharashtra State Board, Maharashtra, India - 2018</h4>
             </div>
           </section>
+          <section>
+            <h2 className="font-Oswald text-2xl font-bold tracking-wide mb-2">
+              Personal Details
+            </h2>
+            <h4 className="mb-1">
+          <span className="font-bold">Full Name <span className="space2">  -</span>:</span> ABDUD DAIM ARSHAQUE
+        </h4>
+        <h4 className="mb-1">
+          <span className="font-bold">Gender <span className="space2">  ----</span>:</span> Male
+        </h4>
+        <h4 className="mb-1">
+          <span className="font-bold">DoB <span className="space2">------i-</span>:</span> 7th March 2002
+        </h4>
+        <h4 className="mb-1">
+          <span className="font-bold">Nationality <span className="space2">  </span>:</span> Indian
+        </h4>
+        <h4 className="mb-1">
+          <span className="font-bold">Languages<span className="space2">  </span>:</span> Hindi, English, Urdu, Marathi
+        </h4>
+            <div className="mb-2">
+              
+            </div>
+          </section>
         </div>
         <div className="w-1/2 flex flex-col gap-6">
         <section className="mt-8">
